@@ -64,3 +64,21 @@ body {
 	max-width: 1500px;
 }
 }
+
+ul {
+	list-style-type: none;
+}
+
+li {
+	width: 3.5rem;
+	height: 3.5rem;
+	display: inline-block;
+	padding: .5rem
+}
+
+nav {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
