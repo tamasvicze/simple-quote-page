@@ -82,3 +82,7 @@ nav {
 	align-items: center;
 }
 
+li:hover {
+filter: grayscale(50%);
+}
+
